@@ -40,3 +40,23 @@
 .read-the-docs {
   color: #888;
 }
+
+.formulario{
+  background-color: lavender;
+  padding: 10px;
+}
+
+.formulario button{
+  margin-top: 10px;
+  background-color: gray;
+  border-radius: 5px;
+  color: azure;
+  font-weight: bold;
+}
+
+.error{
+  color: red;
+  font-weight: bold;
+}
+
+

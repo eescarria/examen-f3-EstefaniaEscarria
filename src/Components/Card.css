@@ -1,0 +1,26 @@
+.contenedor h2{
+    border: 3px solid beige;
+    border-radius: 10px;
+}
+
+.saludo{
+    background-color: lightcoral;
+}
+
+.leyenda{
+    background-color: lightseagreen;
+    
+    color: wheat;
+}
+
+.cancion{
+    background-color: lightgreen;
+    
+}
+
+.contenedor{
+    margin-top: 30px;
+    border-style: dotted;
+    background-color: darkblue;
+    padding: 10px;
+}
