@@ -22,7 +22,7 @@ function App() {
 
     console.log(nombreSinEspacios)
     
-    if(nombreSinEspacios.length > 3 && (user.apellido).length > 6) {
+    if(nombreSinEspacios.length >= 3 && (user.apellido).length >= 6) {
       setShow(true)
       setErr(false)
     }else{
